@@ -3,4 +3,4 @@ This folder consists of the scripts which I use most of the time, to reuse the c
 
 check_word : this script gives the number of times a word has occured in the given directory, and with the location of the word
 
-time_diff: this script is used to calculate the tima taken for a command to execute.
+time_diff: this script is used to calculate the time taken for a command to execute.
